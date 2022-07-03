@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Simulador de Partidas</string>
     <string name="botao_de_simulaco_de_partidas">Botão de simulação de partidas</string>
+    <string name="error_api">Erro inesperado</string>
 </resources>

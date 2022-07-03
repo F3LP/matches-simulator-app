@@ -2,4 +2,5 @@
     <string name="app_name">Matches simulator app</string>
     <string name="botao_de_simulaco_de_partidas">Match simulator button</string>
     <string name="txt_versus" translatable="false">X</string>
+    <string name="error_api">Unexpected error</string>
 </resources>
